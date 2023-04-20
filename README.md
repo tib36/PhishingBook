@@ -93,4 +93,6 @@
 [**钓鱼具体手法**](https://xz.aliyun.com/t/11885)|
 [**Office钓鱼姿势**](https://xz.aliyun.com/t/10339)|
 [**Windows凭据钓鱼窃取**](https://xz.aliyun.com/t/7458)|
-[**Windows凭据钓鱼窃取**](https://xz.aliyun.com/t/7458)|
+[**邮件钓鱼技巧（提高成功率）**](https://xz.aliyun.com/t/6325)|
+[**钓鱼姿势汇总（CHM、自解压等）**](https://www.jianshu.com/p/dcd250593698)|
+[**自解压钓鱼详解**](https://www.cnblogs.com/thespace/p/15520945.html)|
