@@ -78,4 +78,19 @@
 
 | 项目名称 | 项目简介 |
 |----------|----------|
-[**红队防猝死手册**](https://github.com/zhutougg/RedteamStandard)|红队防猝死手册|
+[**红队防猝死手册**](https://github.com/zhutougg/RedteamStandard)|红队防猝死手册，一些防止犯低级错误的指南|
+[**红队笔记**](https://github.com/biggerduck/RedTeamNotes)|强大且全面的红队指南|
+[**红队知识库**](https://github.com/Threekiii/Awesome-Redteam)|一个红队知识库|
+
+---
+
+**分类:杂项堆积**
+
+| 杂项 |
+|----------|
+[**钓鱼指南**](https://xz.aliyun.com/t/7958)|
+[**邮件钓鱼平台搭建**](https://xz.aliyun.com/t/11898)|
+[**钓鱼具体手法**](https://xz.aliyun.com/t/11885)|
+[**Office钓鱼姿势**](https://xz.aliyun.com/t/10339)|
+[**Windows凭据钓鱼窃取**](https://xz.aliyun.com/t/7458)|
+[**Windows凭据钓鱼窃取**](https://xz.aliyun.com/t/7458)|
