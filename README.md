@@ -43,6 +43,8 @@
 |----------|----------|
 [**EmailAll**](https://github.com/Taonn/EmailAll)|一款强大的邮箱收集工具 |
 [**sendMail**](https://github.com/1n7erface/sendMail)|批量发送钓鱼邮箱|
+[**ditt**](https://github.com/evilsocket/ditto)|生成高仿域名|
+[**PhishingInstall**](https://github.com/sumerzhang/PhishingInstall)|快速搭建钓鱼邮服|
 [**Flash-Pop**](https://github.com/r00tSe7en/Flash-Pop)|Flash钓鱼弹窗版|
 [**Fake-flash.cn**](https://github.com/r00tSe7en/Fake-flash.cn)|旧版Flash钓鱼页，中文+英文，可能需要改改再用|
 [**Goblin 钓鱼演练工具**](https://github.com/xiecat/goblin)|适用于红蓝对抗的钓鱼演练工具。通过反向代理，可以在不影响用户操作的情况下无感知的获取用户的信息，或者诱导用户操作。支持隐藏服务端，支持docker快速部署|
