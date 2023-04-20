@@ -42,9 +42,11 @@
 | 项目名称 | 项目简介 |
 |----------|----------|
 [**EmailAll**](https://github.com/Taonn/EmailAll)|一款强大的邮箱收集工具 |
-[**sendMail**](https://github.com/1n7erface/sendMail)|批量发送钓鱼邮箱|
+[**sendMail**](https://github.com/1n7erface/sendMail)|批量群发钓鱼邮件|
 [**ditt**](https://github.com/evilsocket/ditto)|生成高仿域名|
 [**PhishingInstall**](https://github.com/sumerzhang/PhishingInstall)|快速搭建钓鱼邮服|
+[**SocialEngineeringDictionaryGenerator**](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator)|社会工程学密码生成器|
+[**Gophish**](https://github.com/gophish/gophish)|Gophish，一款大型开源钓鱼框架|
 [**Flash-Pop**](https://github.com/r00tSe7en/Flash-Pop)|Flash钓鱼弹窗版|
 [**Fake-flash.cn**](https://github.com/r00tSe7en/Fake-flash.cn)|旧版Flash钓鱼页，中文+英文，可能需要改改再用|
 [**Goblin 钓鱼演练工具**](https://github.com/xiecat/goblin)|适用于红蓝对抗的钓鱼演练工具。通过反向代理，可以在不影响用户操作的情况下无感知的获取用户的信息，或者诱导用户操作。支持隐藏服务端，支持docker快速部署|
@@ -53,6 +55,7 @@
 [**IDE-Honeypot**](https://github.com/wendell1224/ide-honeypot)|一款针对于IDE的反制蜜罐，通过项目文件等手段钓鱼，理论上可对部分IDE实现无感触发|
 [**CrossNet**](https://github.com/dr0op/CrossNet-Beta)|红队行动中利用白利用、免杀、自动判断网络环境生成钓鱼可执行文件。 |
 [**LNKUp**](https://github.com/Plazmaz/LNKUp)|恶意Lnk钓鱼生成器|
+[**EBurst**](https://github.com/grayddq/EBurst)|Exchange邮箱爆破|
 [**Taie-AutoPhishing**](https://github.com/taielab/Taie-AutoPhishing)|钓鱼工具及思路汇总|
 
 ---
@@ -103,3 +106,4 @@
 [**邮件钓鱼技巧（提高成功率）**](https://xz.aliyun.com/t/6325)|
 [**钓鱼姿势汇总（CHM、自解压等）**](https://www.jianshu.com/p/dcd250593698)|
 [**自解压钓鱼详解**](https://www.cnblogs.com/thespace/p/15520945.html)|
+[**渗透Exchange邮服**](https://zhuanlan.zhihu.com/p/339329927)|
