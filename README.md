@@ -45,7 +45,7 @@
 [**sendMail**](https://github.com/1n7erface/sendMail)|批量群发钓鱼邮件|
 [**ditt**](https://github.com/evilsocket/ditto)|生成高仿域名|
 [**PhishingInstall**](https://github.com/sumerzhang/PhishingInstall)|快速搭建钓鱼邮服|
-[**SocialEngineeringDictionaryGenerator**](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator)|社会工程学密码生成器|
+[**社工字典**](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator)|社会工程学密码生成器|
 [**Gophish**](https://github.com/gophish/gophish)|Gophish，一款大型开源钓鱼框架|
 [**Flash-Pop**](https://github.com/r00tSe7en/Flash-Pop)|Flash钓鱼弹窗版|
 [**Fake-flash.cn**](https://github.com/r00tSe7en/Fake-flash.cn)|旧版Flash钓鱼页，中文+英文，可能需要改改再用|
