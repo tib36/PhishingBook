@@ -71,3 +71,11 @@
 [**Covenant**](https://github.com/cobbr/Covenant)|Covenant，一款 .NET C2|
 [**Manjusaka**](https://github.com/YDHCUI/manjusaka)|一款基于WEB界面的远程主机管理工具（被国外安全厂商当成APT来分析的那种）|
 [**Havoc**](https://github.com/HavocFramework/Havoc)|Havoc，类似CobaltStrike，基本上相当于重写了CS|
+
+---
+
+**分类:红队相关其他项目**
+
+| 项目名称 | 项目简介 |
+|----------|----------|
+[**红队防猝死手册**](https://github.com/zhutougg/RedteamStandard)|红队防猝死手册|
