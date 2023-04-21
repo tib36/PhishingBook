@@ -41,6 +41,7 @@
 
 | 项目名称 | 项目简介 |
 |----------|----------|
+[**Lnk-Trojan**](https://github.com/Yihsiwei/Lnk-Trojan)|Lnk钓鱼工具，来自Yihsiwei师傅（职业红队）|
 [**EmailAll**](https://github.com/Taonn/EmailAll)|一款强大的邮箱收集工具 |
 [**sendMail**](https://github.com/1n7erface/sendMail)|批量群发钓鱼邮件|
 [**ditt**](https://github.com/evilsocket/ditto)|生成高仿域名|
@@ -65,10 +66,15 @@
 | 项目名称 | 项目简介 |
 |----------|----------|
 [**BypassAntiVirus**](https://github.com/TideSec/BypassAntiVirus)|TideSec的系列免杀教程|
-[**掩日**](https://github.com/1y0n/AV_Evasion_Tool)|一款强大的红队综合免杀工具|
+[**掩日**](https://github.com/1y0n/AV_Evasion_Tool)|强大的红队免杀工具，截至目前仍在更新，可用性较强|
+[**遮天**](https://github.com/yqcs/ZheTian)|遮天-免杀生成工具|
+[**NimShellCodeLoader**](https://github.com/aeverj/NimShellCodeLoader)|使用小众的Nim语言实现的加载器，主要针对国产杀软|
+[**PicBypass**](https://github.com/soryecker/PicBypass)|远程加载shellcode图片来免杀，可以作为思路然后通过其他语言扩展|
+[**Amsi-Bypass-Powershell**](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)|绕过Windows AMSI|
 [**CS-Avoid-killing**](https://github.com/Gality369/CS-Loader)|CobaltStrike免杀加载器|
 [**Bypass Anti-Virus**](https://github.com/midisec/BypassAnti-Virus)|一些杀软绕过姿势|
-[**遮天**](https://github.com/yqcs/ZheTian)|遮天-免杀生成工具|
+[**bypassAV**](https://github.com/pureqh/bypassAV)|免杀shellcode加载器|
+[**GolangBypassAV**](https://github.com/safe6Sec/GolangBypassAV)|Golang下的免杀思路和工具|
 [**CrossC2**](https://github.com/gloxec/CrossC2)|经典项目，用于生成跨平台beacon|
 
 ---
