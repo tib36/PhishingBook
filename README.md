@@ -53,10 +53,11 @@
 [**Goblin 钓鱼演练工具**](https://github.com/xiecat/goblin)|适用于红蓝对抗的钓鱼演练工具。通过反向代理，可以在不影响用户操作的情况下无感知的获取用户的信息，或者诱导用户操作。支持隐藏服务端，支持docker快速部署|
 [**Medusa**](https://github.com/Ascotbe/Medusa)|Medusa红队作战平台|
 [**idea-project-fish-exploit**](https://github.com/no-one-sec/idea-project-fish-exploit)|JetBrains系列产品.idea钓鱼反制红队 |
-[**IDE-Honeypot**](https://github.com/wendell1224/ide-honeypot)|一款针对于IDE的反制蜜罐，通过项目文件等手段钓鱼，理论上可对部分IDE实现无感触发|
+[**IDE-Honeypot**](https://github.com/wendell1224/ide-honeypot)|一款针对于IDE的反制蜜罐。通过项目文件钓鱼的思路理论上可对部分IDE实现无感触发|
 [**CrossNet**](https://github.com/dr0op/CrossNet-Beta)|红队行动中利用白利用、免杀、自动判断网络环境生成钓鱼可执行文件。 |
 [**LNKUp**](https://github.com/Plazmaz/LNKUp)|恶意Lnk钓鱼生成器|
 [**EBurst**](https://github.com/grayddq/EBurst)|Exchange邮箱爆破|
+[**cli.im在线工具**](https://cli.im/tools)|在线生成和编辑二维码|
 [**Taie-AutoPhishing**](https://github.com/taielab/Taie-AutoPhishing)|钓鱼工具及思路汇总|
 
 ---
@@ -68,6 +69,7 @@
 [**BypassAntiVirus**](https://github.com/TideSec/BypassAntiVirus)|TideSec的系列免杀教程|
 [**掩日**](https://github.com/1y0n/AV_Evasion_Tool)|强大的红队免杀工具，截至目前仍在更新，可用性较强|
 [**遮天**](https://github.com/yqcs/ZheTian)|遮天-免杀生成工具|
+[**潮影-在线免杀平台**](http://bypass.tidesec.com/)|线上版免杀工具平台|
 [**NimShellCodeLoader**](https://github.com/aeverj/NimShellCodeLoader)|使用小众的Nim语言实现的加载器，主要针对国产杀软|
 [**PicBypass**](https://github.com/soryecker/PicBypass)|远程加载shellcode图片来免杀，可以作为思路然后通过其他语言扩展|
 [**Amsi-Bypass-Powershell**](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)|绕过Windows AMSI|
@@ -75,6 +77,7 @@
 [**Bypass Anti-Virus**](https://github.com/midisec/BypassAnti-Virus)|一些杀软绕过姿势|
 [**bypassAV**](https://github.com/pureqh/bypassAV)|免杀shellcode加载器|
 [**GolangBypassAV**](https://github.com/safe6Sec/GolangBypassAV)|Golang下的免杀思路和工具|
+[**Malleable C2**](https://github.com/threatexpress/malleable-c2)|用于混淆CobaltStrike流量特征（实战中还需要修改其他特征，例如证书）|
 [**CrossC2**](https://github.com/gloxec/CrossC2)|经典项目，用于生成跨平台beacon|
 
 ---
@@ -87,6 +90,7 @@
 [**Covenant**](https://github.com/cobbr/Covenant)|Covenant，一款 .NET C2|
 [**Manjusaka**](https://github.com/YDHCUI/manjusaka)|一款基于WEB界面的远程主机管理工具（被国外安全厂商当成APT来分析的那种）|
 [**Havoc**](https://github.com/HavocFramework/Havoc)|Havoc，类似CobaltStrike，基本上相当于重写了CS|
+[**BlackMamba**](https://github.com/loseys/BlackMamba)|Python编写的开源C2框架|
 
 ---
 
