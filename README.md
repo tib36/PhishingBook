@@ -70,6 +70,8 @@
 [**掩日**](https://github.com/1y0n/AV_Evasion_Tool)|强大的红队免杀工具，截至目前仍在更新，可用性较强|
 [**遮天**](https://github.com/yqcs/ZheTian)|遮天-免杀生成工具|
 [**潮影-在线免杀平台**](http://bypass.tidesec.com/)|线上版免杀工具平台|
+[**PengCode**](https://github.com/Mephostophiles/PengCode)|将exe转换为shellcode|
+[**rust-shellcode**](https://github.com/b1nhack/rust-shellcode)|rust实现的shellcode加载器，支持多种加载方式|
 [**NimShellCodeLoader**](https://github.com/aeverj/NimShellCodeLoader)|使用小众的Nim语言实现的加载器，主要针对国产杀软|
 [**PicBypass**](https://github.com/soryecker/PicBypass)|远程加载shellcode图片来免杀，可以作为思路然后通过其他语言扩展|
 [**Amsi-Bypass-Powershell**](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)|绕过Windows AMSI|
