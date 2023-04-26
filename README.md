@@ -94,7 +94,7 @@
 [**Manjusaka**](https://github.com/YDHCUI/manjusaka)|一款基于WEB界面的远程主机管理工具（被国外安全厂商当成APT来分析的那种）|
 [**Havoc**](https://github.com/HavocFramework/Havoc)|Havoc，类似CobaltStrike，基本上相当于重写了CS|
 [**BlackMamba**](https://github.com/loseys/BlackMamba)|Python编写的开源C2框架|
-
+[**Noterce**](https://github.com/xiao-zhu-zhu/noterce)|一种另辟蹊径的免杀执行系统命令的木马,防溯源，无需VPS|
 ---
 
 **分类:红队相关其他项目**
