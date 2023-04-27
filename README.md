@@ -83,6 +83,7 @@
 [**Malleable C2**](https://github.com/threatexpress/malleable-c2)|用于混淆CobaltStrike流量特征（实战中还需要修改其他特征，例如证书）|
 [**CrossC2**](https://github.com/gloxec/CrossC2)|经典项目，用于生成跨平台beacon|
 [**NoteRCE**](https://github.com/xiao-zhu-zhu/noterce)|一种另辟蹊径的免杀执行系统命令的木马,防溯源，无需VPS|
+[**KaynLdr**](https://github.com/Cracked5pider/KaynLdr)|用C / ASM编写的反射加载器|
 
 ---
 
@@ -91,6 +92,7 @@
 | 项目名称 | 项目简介 |
 |----------|----------|
 [**Sliver**](https://github.com/BishopFox/sliver)|Sliver C2框架，貌似最近比较火|
+[**RustDesk**](https://github.com/rustdesk/rustdesk)|一款开源、支持普通用户权限、支持纯内网环境的远程桌面控制软件，且不容易被查杀|
 [**Covenant**](https://github.com/cobbr/Covenant)|Covenant，一款 .NET C2|
 [**Manjusaka**](https://github.com/YDHCUI/manjusaka)|一款基于WEB界面的远程主机管理工具（被国外安全厂商当成APT来分析的那种）|
 [**Havoc**](https://github.com/HavocFramework/Havoc)|Havoc，类似CobaltStrike，基本上相当于重写了CS|
