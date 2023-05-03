@@ -59,6 +59,7 @@
 
 | 项目名称 | 项目简介 |
 |----------|----------|
+[**MatryoshkaDollTool**](https://github.com/TheKingOfDuck/MatryoshkaDollTool)|C#实现的程序加壳/捆绑工具|
 [**Lnk-Trojan**](https://github.com/Yihsiwei/Lnk-Trojan)|Lnk钓鱼工具，来自Yihsiwei师傅（职业红队）|
 [**EmailAll**](https://github.com/Taonn/EmailAll)|一款强大的邮箱收集工具 |
 [**sendMail**](https://github.com/1n7erface/sendMail)|批量群发钓鱼邮件|
