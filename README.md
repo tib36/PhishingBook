@@ -60,6 +60,8 @@
 | 项目名称 | 项目简介 |
 |----------|----------|
 [**MatryoshkaDollTool**](https://github.com/TheKingOfDuck/MatryoshkaDollTool)|C#实现的程序加壳/捆绑工具|
+[**BeCyIconGrabber Portable**](https://github.com/JarlPenguin/BeCyIconGrabberPortable)|图标提取工具，可用于辅助进行图标伪装|
+[**Restorator**](https://www.bome.com/products/restorator)|资源替换工具，可用于图标伪装，但是似乎是一款需付费的工具|
 [**Bad-Pdf**](https://github.com/deepzec/Bad-Pdf)|通过恶意PDF文件窃取NTLM Hash|
 [**Lnk-Trojan**](https://github.com/Yihsiwei/Lnk-Trojan)|Lnk钓鱼工具，来自Yihsiwei师傅（职业红队）|
 [**EmailAll**](https://github.com/Taonn/EmailAll)|一款强大的邮箱收集工具 |
