@@ -125,6 +125,7 @@
 
 | 项目名称 | 项目简介 |
 |----------|----------|
+[**Fish-Hub**](https://github.com/ybdt/fish-hub)|钓鱼相关案例和参考|
 [**红队防猝死手册**](https://github.com/zhutougg/RedteamStandard)|红队防猝死手册，一些防止犯低级错误的指南|
 [**红队笔记**](https://github.com/biggerduck/RedTeamNotes)|强大且全面的红队指南|
 [**红队知识库**](https://github.com/Threekiii/Awesome-Redteam)|一个红队知识库|
