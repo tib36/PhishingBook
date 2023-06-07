@@ -59,6 +59,7 @@
 
 | 项目名称 | 项目简介 |
 |----------|----------|
+[**Swaks**](https://github.com/jetmore/swaks)|邮件伪造工具，集成伪装发信人等功能|
 [**MatryoshkaDollTool**](https://github.com/TheKingOfDuck/MatryoshkaDollTool)|C#实现的程序加壳/捆绑工具|
 [**BeCyIconGrabber Portable**](https://github.com/JarlPenguin/BeCyIconGrabberPortable)|图标提取工具，可用于辅助进行图标伪装|
 [**Restorator**](https://www.bome.com/products/restorator)|资源替换工具，可用于图标伪装，但是似乎是一款需付费的工具|
