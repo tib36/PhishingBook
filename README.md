@@ -94,6 +94,7 @@
 [**掩日**](https://github.com/1y0n/AV_Evasion_Tool)|强大的红队免杀工具，截至目前仍在更新，可用性较强|
 [**遮天**](https://github.com/yqcs/ZheTian)|遮天-免杀生成工具|
 [**潮影-在线免杀平台**](http://bypass.tidesec.com/)|线上版免杀工具平台|
+[**CS插件BypassAV**](https://github.com/hack2fun/BypassAV)|Cobalt Strike插件，用于快速生成免杀的可执行文件|
 [**PengCode**](https://github.com/Mephostophiles/PengCode)|将exe转换为shellcode|
 [**rust-shellcode**](https://github.com/b1nhack/rust-shellcode)|rust实现的shellcode加载器，支持多种加载方式|
 [**NimShellCodeLoader**](https://github.com/aeverj/NimShellCodeLoader)|使用小众的Nim语言实现的加载器，主要针对国产杀软|
@@ -126,6 +127,7 @@
 
 | 项目名称 | 项目简介 |
 |----------|----------|
+[**APT事件报告**](https://apt.360.net/timeline)|国内某公司整理的APT分析报告，部分手法可参考并落地|
 [**Fish-Hub**](https://github.com/ybdt/fish-hub)|钓鱼相关案例和参考|
 [**红队防猝死手册**](https://github.com/zhutougg/RedteamStandard)|红队防猝死手册，一些防止犯低级错误的指南|
 [**红队笔记**](https://github.com/biggerduck/RedTeamNotes)|强大且全面的红队指南|
