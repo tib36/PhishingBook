@@ -108,6 +108,7 @@
 [**CrossC2**](https://github.com/gloxec/CrossC2)|经典项目，用于生成跨平台beacon|
 [**NoteRCE**](https://github.com/xiao-zhu-zhu/noterce)|一种另辟蹊径的免杀执行系统命令的木马,防溯源，无需VPS|
 [**KaynLdr**](https://github.com/Cracked5pider/KaynLdr)|用C / ASM编写的反射加载器|
+[**killEscaper**](https://github.com/Anyyy111/killEscaper)|利用shellcode来制作免杀exe的工具，可结合渗透工具生成的shellcode二次转换exe，支持CobaltStrike、metasploit等|
 
 ---
 
