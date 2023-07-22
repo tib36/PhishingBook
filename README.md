@@ -109,6 +109,7 @@
 [**NoteRCE**](https://github.com/xiao-zhu-zhu/noterce)|一种另辟蹊径的免杀执行系统命令的木马,防溯源，无需VPS|
 [**KaynLdr**](https://github.com/Cracked5pider/KaynLdr)|用C / ASM编写的反射加载器|
 [**killEscaper**](https://github.com/Anyyy111/killEscaper)|利用shellcode来制作免杀exe的工具，可结合渗透工具生成的shellcode二次转换exe，支持CobaltStrike、metasploit等|
+[**DamnPythonEvasion**](https://github.com/baiyies/DamnPythonEvasion)|基于python pyd的shellcode免杀绕过|
 
 ---
 
