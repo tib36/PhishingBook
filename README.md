@@ -54,7 +54,8 @@
 [**CVE-2017-0199**](https://github.com/bhdresh/CVE-2017-0199)|CVE-2017-0199 EXP|
 [**PoC Exploit for CVE-2018-0802**](https://github.com/rxwx/CVE-2018-0802)|PoC Exploit for CVE-2018-0802|
 [**CVE-2022-24934**](https://github.com/webraybtl/CVE-2022-24934)|WPS Office 历史漏洞Demo|
-[**WPS-20230809-RCE**](https://github.com/b2git/WPS-0DAY-20230809)|WPS Office RCE|
+[**WPS-20230809-RCE POC1**](https://github.com/b2git/WPS-0DAY-20230809)|WPS Office RCE|
+[**WPS-20230809-RCE POC2**](https://github.com/ba0gu0/wps-rce)|WPS Office RCE|
 
 ---
 
