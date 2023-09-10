@@ -67,6 +67,7 @@
 [**MatryoshkaDollTool**](https://github.com/TheKingOfDuck/MatryoshkaDollTool)|C#实现的程序加壳/捆绑工具|
 [**BeCyIconGrabber Portable**](https://github.com/JarlPenguin/BeCyIconGrabberPortable)|图标提取工具，可用于辅助进行图标伪装|
 [**Restorator**](https://www.bome.com/products/restorator)|资源替换工具，可用于图标伪装，但是似乎是一款需付费的工具|
+[**SigThief**](https://github.com/secretsquirrel/SigThief)|数字签名伪装|
 [**Bad-Pdf**](https://github.com/deepzec/Bad-Pdf)|通过恶意PDF文件窃取NTLM Hash|
 [**Lnk-Trojan**](https://github.com/Yihsiwei/Lnk-Trojan)|Lnk钓鱼工具，来自Yihsiwei师傅（职业红队）|
 [**EmailAll**](https://github.com/Taonn/EmailAll)|一款强大的邮箱收集工具 |
@@ -98,6 +99,9 @@
 [**掩日**](https://github.com/1y0n/AV_Evasion_Tool)|强大的红队免杀工具，截至目前仍在更新，可用性较强|
 [**遮天**](https://github.com/yqcs/ZheTian)|遮天-免杀生成工具|
 [**潮影-在线免杀平台**](http://bypass.tidesec.com/)|线上版免杀工具平台|
+[**GobypassAV-shellcode**](https://github.com/Pizz33/GobypassAV-shellcode)|CobaltStrike shellcode强效免杀|
+[**Bundler-bypass**](https://github.com/testxxxzzz/Bundler-bypass)|免杀捆绑器|
+[**GoFileBinder**](https://github.com/Yihsiwei/GoFileBinder)|Golang免杀捆绑器，来自Yihsiwei师傅|
 [**CS插件BypassAV**](https://github.com/hack2fun/BypassAV)|Cobalt Strike插件，用于快速生成免杀的可执行文件|
 [**PengCode**](https://github.com/Mephostophiles/PengCode)|将exe转换为shellcode|
 [**rust-shellcode**](https://github.com/b1nhack/rust-shellcode)|rust实现的shellcode加载器，支持多种加载方式|
