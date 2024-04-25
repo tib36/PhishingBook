@@ -56,6 +56,7 @@
 [**CVE-2022-24934**](https://github.com/webraybtl/CVE-2022-24934)|WPS Office 历史漏洞Demo|
 [**WPS-20230809-RCE POC1**](https://github.com/b2git/WPS-0DAY-20230809)|WPS Office RCE|
 [**WPS-20230809-RCE POC2**](https://github.com/ba0gu0/wps-rce)|WPS Office RCE|
+[**Outlook RCE**](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)|CVE-2024-21413 Microsoft Outlook漏洞POC|
 
 ---
 
@@ -151,6 +152,8 @@
 
 | 杂项 |
 |----------|
+[**企业钓鱼演练总结**](https://xz.aliyun.com/t/13287)|
+[**钓鱼研判经验**](https://xz.aliyun.com/t/13629)|
 [**钓鱼指南**](https://xz.aliyun.com/t/7958)|
 [**邮件钓鱼平台搭建**](https://xz.aliyun.com/t/11898)|
 [**钓鱼具体手法**](https://xz.aliyun.com/t/11885)|
