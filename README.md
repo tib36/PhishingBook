@@ -100,6 +100,7 @@
 [**掩日**](https://github.com/1y0n/AV_Evasion_Tool)|强大的红队免杀工具，截至目前仍在更新，可用性较强|
 [**遮天**](https://github.com/yqcs/ZheTian)|遮天-免杀生成工具|
 [**潮影-在线免杀平台**](http://bypass.tidesec.com/)|线上版免杀工具平台|
+[**darkPulse**](https://github.com/fdx-xdf/darkPulse)|用go编写的多功能Loader|
 [**GobypassAV-shellcode**](https://github.com/Pizz33/GobypassAV-shellcode)|CobaltStrike shellcode强效免杀|
 [**Bundler-bypass**](https://github.com/testxxxzzz/Bundler-bypass)|免杀捆绑器|
 [**GoFileBinder**](https://github.com/Yihsiwei/GoFileBinder)|Golang免杀捆绑器，来自Yihsiwei师傅|
