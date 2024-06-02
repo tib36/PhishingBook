@@ -70,7 +70,7 @@
 [**Restorator**](https://www.bome.com/products/restorator)|资源替换工具，可用于图标伪装，但是似乎是一款需付费的工具|
 [**SigThief**](https://github.com/secretsquirrel/SigThief)|数字签名伪装|
 [**Bad-Pdf**](https://github.com/deepzec/Bad-Pdf)|通过恶意PDF文件窃取NTLM Hash|
-[**Lnk-Trojan**](https://github.com/Yihsiwei/Lnk-Trojan)|Lnk钓鱼工具，来自Yihsiwei师傅（职业红队）|
+[**Lnk-Trojan**](https://github.com/Yihsiwei/Lnk-Trojan)|Lnk钓鱼工具|
 [**EmailAll**](https://github.com/Taonn/EmailAll)|一款强大的邮箱收集工具 |
 [**sendMail**](https://github.com/1n7erface/sendMail)|批量群发钓鱼邮件|
 [**ditt**](https://github.com/evilsocket/ditto)|生成高仿域名|
@@ -103,7 +103,7 @@
 [**darkPulse**](https://github.com/fdx-xdf/darkPulse)|用go编写的多功能Loader|
 [**GobypassAV-shellcode**](https://github.com/Pizz33/GobypassAV-shellcode)|CobaltStrike shellcode强效免杀|
 [**Bundler-bypass**](https://github.com/testxxxzzz/Bundler-bypass)|免杀捆绑器|
-[**GoFileBinder**](https://github.com/Yihsiwei/GoFileBinder)|Golang免杀捆绑器，来自Yihsiwei师傅|
+[**GoFileBinder**](https://github.com/Yihsiwei/GoFileBinder)|Golang免杀捆绑器|
 [**CS插件BypassAV**](https://github.com/hack2fun/BypassAV)|Cobalt Strike插件，用于快速生成免杀的可执行文件|
 [**PengCode**](https://github.com/Mephostophiles/PengCode)|将exe转换为shellcode|
 [**rust-shellcode**](https://github.com/b1nhack/rust-shellcode)|rust实现的shellcode加载器，支持多种加载方式|
@@ -120,6 +120,8 @@
 [**KaynLdr**](https://github.com/Cracked5pider/KaynLdr)|用C / ASM编写的反射加载器|
 [**killEscaper**](https://github.com/Anyyy111/killEscaper)|利用shellcode来制作免杀exe的工具，可结合渗透工具生成的shellcode二次转换exe，支持CobaltStrike、metasploit等|
 [**DamnPythonEvasion**](https://github.com/baiyies/DamnPythonEvasion)|基于python pyd的shellcode免杀绕过|
+[**SysWhispers3WinHttp**](https://github.com/huaigu4ng/SysWhispers3WinHttp)|基于SysWhispers3增添WinHttp分离加载+交叉编译|
+[**ShellcodeLoader**](https://github.com/knownsec/shellcodeloader)|Windows平台的shellcode免杀加载器，内置多种加载方式|
 
 ---
 
