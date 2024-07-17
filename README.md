@@ -156,6 +156,7 @@
 | 杂项 |
 |----------|
 [**企业钓鱼演练总结**](https://xz.aliyun.com/t/13287)|
+[**SMTP Smuggling 分析及实现**](https://www.freebuf.com/articles/web/403860.html)|
 [**钓鱼研判经验**](https://xz.aliyun.com/t/13629)|
 [**钓鱼指南**](https://xz.aliyun.com/t/7958)|
 [**邮件钓鱼平台搭建**](https://xz.aliyun.com/t/11898)|
