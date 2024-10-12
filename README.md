@@ -136,6 +136,7 @@
 [**Manjusaka**](https://github.com/YDHCUI/manjusaka)|一款基于WEB界面的远程主机管理工具（被国外安全厂商当成APT来分析的那种）|
 [**Havoc**](https://github.com/HavocFramework/Havoc)|Havoc，类似CobaltStrike，基本上相当于重写了CS|
 [**BlackMamba**](https://github.com/loseys/BlackMamba)|Python编写的开源C2框架|
+[**Quasar**](https://github.com/quasar/Quasar)|一款C#编写的开源RAT，项目已停止更新（read-only）|
 ---
 
 #### 分类:红队相关其他项目
