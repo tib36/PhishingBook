@@ -122,6 +122,7 @@
 [**DamnPythonEvasion**](https://github.com/baiyies/DamnPythonEvasion)|基于python pyd的shellcode免杀绕过|
 [**SysWhispers3WinHttp**](https://github.com/huaigu4ng/SysWhispers3WinHttp)|基于SysWhispers3增添WinHttp分离加载+交叉编译|
 [**ShellcodeLoader**](https://github.com/knownsec/shellcodeloader)|Windows平台的shellcode免杀加载器，内置多种加载方式|
+[**pe_to_shellcode**](https://github.com/hasherezade/pe_to_shellcode)|能将绝大部分PE转换为shellcode供外部加载，且shellcode本身可作为PE执行|
 
 ---
 
