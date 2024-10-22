@@ -173,6 +173,7 @@
 [**钓鱼优秀战例**](https://xz.aliyun.com/t/10731)|
 [**反制红队的钓鱼优秀战例**](https://zhuanlan.zhihu.com/p/656856056)|
 [**Office钓鱼手法**](https://cloud.tencent.com/developer/article/1917641)|
+[**文档钓鱼汇总**](https://cloud.tencent.com/developer/article/2008720)|
 [**Office宏免杀**](https://cloud.tencent.com/developer/article/1761344)|
 
 ---
