@@ -57,6 +57,7 @@
 [**WPS-20230809-RCE POC1**](https://github.com/b2git/WPS-0DAY-20230809)|WPS Office RCE|
 [**WPS-20230809-RCE POC2**](https://github.com/ba0gu0/wps-rce)|WPS Office RCE|
 [**Outlook RCE**](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)|CVE-2024-21413 Microsoft Outlook漏洞POC|
+[**WPS RCE:CVE-2024-7262&7263**](https://www.welivesecurity.com/en/eset-research/analysis-of-two-arbitrary-code-execution-vulnerabilities-affecting-wps-office/)|WPS Office RCE|
 
 ---
 
