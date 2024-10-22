@@ -172,6 +172,8 @@
 [**渗透Exchange邮服**](https://zhuanlan.zhihu.com/p/339329927)|
 [**钓鱼优秀战例**](https://xz.aliyun.com/t/10731)|
 [**反制红队的钓鱼优秀战例**](https://zhuanlan.zhihu.com/p/656856056)|
+[**Office钓鱼手法**](https://cloud.tencent.com/developer/article/1917641)|
+[**Office宏免杀**](https://cloud.tencent.com/developer/article/1761344)|
 
 ---
 
