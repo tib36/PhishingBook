@@ -127,17 +127,19 @@
 
 ---
 
-#### 分类:C2项目
+#### 分类:用于参考的C2项目
 
 | 项目名称 | 项目简介 |
 |----------|----------|
 [**Sliver**](https://github.com/BishopFox/sliver)|Sliver C2框架，貌似最近比较火|
-[**RustDesk**](https://github.com/rustdesk/rustdesk)|一款开源、支持普通用户权限、支持纯内网环境的远程桌面控制软件，且不容易被查杀|
+[**RustDesk**](https://github.com/rustdesk/rustdesk)|一款开源、支持普通用户权限、支持纯内网环境的远程桌面工具|
+[**gotohttp**](http://www.gotohttp.com/)|gotohttp远程桌面工具|
 [**Covenant**](https://github.com/cobbr/Covenant)|Covenant，一款 .NET C2|
-[**Manjusaka**](https://github.com/YDHCUI/manjusaka)|一款基于WEB界面的远程主机管理工具（被国外安全厂商当成APT来分析的那种）|
+[**AsyncRAT**](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)|AsyncRAT|
+[**Manjusaka**](https://github.com/YDHCUI/manjusaka)|一款基于WEB界面的远程主机管理工具|
 [**Havoc**](https://github.com/HavocFramework/Havoc)|Havoc，类似CobaltStrike，基本上相当于重写了CS|
 [**BlackMamba**](https://github.com/loseys/BlackMamba)|Python编写的开源C2框架|
-[**Quasar**](https://github.com/quasar/Quasar)|一款C#编写的开源RAT，项目已停止更新（read-only）|
+[**Quasar**](https://github.com/quasar/Quasar)|一款C#编写的开源RAT，项目已停止更新|
 
 ---
 
