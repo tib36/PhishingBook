@@ -138,6 +138,7 @@
 [**Havoc**](https://github.com/HavocFramework/Havoc)|Havoc，类似CobaltStrike，基本上相当于重写了CS|
 [**BlackMamba**](https://github.com/loseys/BlackMamba)|Python编写的开源C2框架|
 [**Quasar**](https://github.com/quasar/Quasar)|一款C#编写的开源RAT，项目已停止更新（read-only）|
+
 ---
 
 #### 分类:红队相关其他项目
@@ -151,6 +152,20 @@
 [**红队防猝死手册**](https://github.com/zhutougg/RedteamStandard)|红队防猝死手册，一些防止犯低级错误的指南|
 [**红队笔记**](https://github.com/biggerduck/RedTeamNotes)|强大且全面的红队指南|
 [**红队知识库**](https://github.com/Threekiii/Awesome-Redteam)|一个红队知识库|
+
+---
+
+#### 分类:蓝队反钓鱼资源
+
+| 项目名称 | 项目简介 |
+|----------|----------|
+[**微步云沙箱**](https://s.threatbook.com/)|通过隔离环境运行程序，初步检测文件是否恶意|
+[**安恒云沙箱**](https://sandbox.dbappsecurity.com.cn/)|通过隔离环境运行程序，初步检测文件是否恶意|
+[**奇安信云沙箱**](https://sandbox.ti.qianxin.com/sandbox/page)|通过隔离环境运行程序，初步检测文件是否恶意|
+[**Freebuf云沙箱**](https://sandbox.freebuf.com/detect)|通过隔离环境运行程序，初步检测文件是否恶意|
+[**360云沙箱**](https://ata.360.net/)|通过隔离环境运行程序，初步检测文件是否恶意|
+[**VirusTotal**](https://www.virustotal.com/gui/home/upload)|经典的VT，在线多引擎检测|
+[**Any.run**](https://any.run/)|Any.Run交互式恶意软件分析工具沙箱服务|
 
 ---
 
